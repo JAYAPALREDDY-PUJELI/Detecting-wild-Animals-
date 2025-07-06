@@ -1,0 +1,38 @@
+Creating Alert Messages Based on Wild Animal Activity Detection Using Hybrid Deep Neural Networks
+
+
+IEEE Transaction on Machine Learning,Volume:11,Issue Date:26.June.2023
+
+Animal detection, VGG-Net, Bi-LSTM, convolutional neural network, activity recognition,
+video surveillance, wild animal monitoring, alert system.
+
+
+Creating_Alert_Messages_Based_on_Wild_Animal_Activity_Detection
+
+
+
+creating_alert_messages_based_on_wild_animal_activity_detection
+
+
+
+predict_animal_activity_detection
+
+Fid
+Forest_Name	
+Location	
+Animal	
+Height_cm	
+Weight_kg	
+Color	
+Diet	
+Habitat	
+Predators	
+Countries_Found	
+Conservation_Status	
+Family	
+Social_Structure	
+Alert_Message_Date
+Prediction
+
+
+Forest_Name varchar(300) NOT NULL,	
